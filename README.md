@@ -1,4 +1,4 @@
-![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
+![](https://github.com/skbhere/Tensorflow-in-practise-Specialization/blob/master/68747470733a2f2f64327776666f7163396779717a662e636c6f756466726f6e742e6e65742f636f6e74656e742f75706c6f6164732f323031392f30362f576562736974652d5446534465736b746f7042616e6e65722e706e67.png)
 
  [Click here to view My Certification](https://www.coursera.org/account/accomplishments/specialization/Y842EU7E4SL6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
